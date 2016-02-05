@@ -12,4 +12,8 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require angular
+//= require react
+//= require react/react-dom.js
+//= require babel/browser.js
 //= require_tree .
